@@ -1,5 +1,4 @@
 Job-Name
 Electronics Engineering
 full stack developer
-ดารา
-ผู้พัฒนาเกม
+
