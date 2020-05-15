@@ -1,0 +1,4 @@
+subject, year, term, id, name, grade
+ICT60-375 ,2020 ,3 ,60145091 ,Anavit Kongton ,A
+ICT60-325 ,2020 ,2 ,60145091 ,Anavit Kongton ,B
+ICT60-310 ,2020 ,1 ,60145091 ,Anavit Kongton ,D
