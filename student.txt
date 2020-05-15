@@ -1,0 +1,2 @@
+ID ,name ,gpax ,phone ,gender
+60145091 ,anavit kongton ,2.48 ,male
